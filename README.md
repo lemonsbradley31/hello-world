@@ -1,5 +1,2 @@
 # hello-world
 Upload my contacts. 
-I am 36 
-Brown hair
-Blue eyes
